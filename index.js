@@ -21,5 +21,3 @@ const FlowerBoy = {
 }
 console.log(Igor, FlowerBoy);
 
-let nums = [Igor, FlowerBoy]
-nums.forEach((albums)=> console.log(albums))
