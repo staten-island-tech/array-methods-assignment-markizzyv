@@ -21,3 +21,7 @@ const FlowerBoy = {
 }
 console.log(Igor, FlowerBoy);
 
+const tyler = {album: 'Igor', numbers:[1, 2, 3, 4, 5, ]}
+
+
+
