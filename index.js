@@ -15,27 +15,27 @@ const CallMeIfYouGetLost = {
     fire: "yes",
     favsong: "SWEET / I THOUGHT YOU WANTED TO DANCE",
 
-}
+};
 const Wolf = {
     album: "Wolf",
     fire: "yes",
     favsong: "Bimmer",
-}
+};
 const Goblin = {
     album: "Goblin",
     fire: "no",
     favsong: "She",
-}
+};
 const CherryBomb = {
     album: "Cherry Bomb",
     fire: "no",
     favsong: "SMUCKERS",
-}
+};
 
  let tyler = [ Igor, FlowerBoy, CallMeIfYouGetLost, Wolf, Goblin , CherryBomb ];
 console.log(tyler)
 tyler.forEach((tyler)=> console.log(tyler.album))
 tyler.forEach((tyler)=> console.log(tyler.fire))
 
-const trash = tyler.filter((tyler)=> tyler.fire === "no")
+const trash = tyler.filter((opp)=> opp.fire === "no")
 console.log(trash)
