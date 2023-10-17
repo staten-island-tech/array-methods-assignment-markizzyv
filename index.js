@@ -34,8 +34,8 @@ const CherryBomb = {
 
  let tyler = [ Igor, FlowerBoy, CallMeIfYouGetLost, Wolf, Goblin , CherryBomb ];
 console.log(tyler)
-tyler.forEach((tyler)=> console.log(tyler.album))
-tyler.forEach((tyler)=> console.log(tyler.fire))
+tyler.forEach((tyler)=> console.log(tyler.favsong))
 
-const trash = tyler.filter((opp)=> opp.fire === "no")
+
+const trash = tyler.filter((tyler)=> tyler.fire === "no")
 console.log(trash)
