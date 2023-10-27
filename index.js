@@ -32,14 +32,12 @@ const CherryBomb = {
     favsong: "SMUCKERS",
 }
 
- let tyler = [ Igor, FlowerBoy, CallMeIfYouGetLost, Wolf, Goblin , CherryBomb ];
+ const tyler = [ Igor, FlowerBoy, CallMeIfYouGetLost, Wolf, Goblin , CherryBomb ];
+
+   
 
  tyler.forEach((tyler)=> console.log(tyler.album))
-
-
  tyler.forEach((tyler)=> console.log(tyler))
-
- 
 
 
 
