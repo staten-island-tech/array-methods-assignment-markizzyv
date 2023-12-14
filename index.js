@@ -35,9 +35,11 @@ const CherryBomb = {
  const tyler = [ Igor, FlowerBoy, CallMeIfYouGetLost, Wolf, Goblin , CherryBomb ];
 
    
+console.log(tyler.album)
 
+/* 
  tyler.forEach((tyler)=> console.log(tyler.album))
- tyler.forEach((tyler)=> console.log(tyler))
+ tyler.forEach((tyler)=> console.log(tyler)) */
 
 
 
