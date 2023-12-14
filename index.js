@@ -48,6 +48,3 @@ const trash = tyler.filter((tyler)=> tyler.fire === "no")
 console.log(trash)
  
 
-const months = ['March', 'Jan', 'Feb', 'Dec'];
-months.sort();
-console.log(months);
