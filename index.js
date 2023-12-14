@@ -46,5 +46,9 @@ console.log(tyler.album)
 
 const trash = tyler.filter((tyler)=> tyler.fire === "no")
 console.log(trash)
+<<<<<<< HEAD
  
 
+=======
+ 
+>>>>>>> parent of c344b1b (gg)
