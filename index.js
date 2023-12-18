@@ -34,21 +34,15 @@ const CherryBomb = {
 
  const tyler = [ Igor, FlowerBoy, CallMeIfYouGetLost, Wolf, Goblin , CherryBomb ];
 
-   
-console.log(tyler.album)
 
-/* 
+
  tyler.forEach((tyler)=> console.log(tyler.album))
- tyler.forEach((tyler)=> console.log(tyler)) */
+ tyler.forEach((tyler)=> console.log(tyler)) 
 
 
 
 
 const trash = tyler.filter((tyler)=> tyler.fire === "no")
 console.log(trash)
-<<<<<<< HEAD
  
 
-=======
- 
->>>>>>> parent of c344b1b (gg)
